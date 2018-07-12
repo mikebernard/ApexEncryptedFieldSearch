@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-const outputFile = 'LLC_BI__EncryptedFields.txt';
+const outputFile = 'EncryptedFields.txt';
 const objDir = './src/objects';
 const fs = require('fs');
 const xml2js = require('xml2js');
