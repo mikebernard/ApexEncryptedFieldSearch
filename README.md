@@ -9,5 +9,5 @@ An SFDC structured directory. Specifically containing /src/objects.
 2. Unzip the file.
 3. Run npm install. Use A to replace all if prompted
 4. Run `node eff.js`
-5. A file named EncryptedFields.txt will be placed in the root of the directory and will contain a list of all the encrypted fields.
+5. A file named *EncryptedFields.txt* will be placed in the root of the directory and will contain a list of all the encrypted fields.
  
